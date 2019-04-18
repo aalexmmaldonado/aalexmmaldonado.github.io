@@ -1,0 +1,31 @@
+/* CSS Document */
+
+
+
+/* ---------- Honors and Awards Table ---------- */
+.honors-table td{
+	
+	border: none;
+	border-collapse: collapse;
+}
+
+.honors-table tr:nth-child(even){
+	
+	background-color: #f9f9f9;
+	
+}
+
+.honors-table tr:hover{
+	
+	background-color: aliceblue;
+	
+}
+
+
+.search_wrapper_custom{
+	color: white;
+}
+
+
+
+
