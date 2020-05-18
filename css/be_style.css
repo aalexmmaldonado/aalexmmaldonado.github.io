@@ -19,7 +19,6 @@
 | 
 |
 */
-
 @-moz-keyframes spin {
     100% {
         -moz-transform: rotate(360deg);
@@ -96,7 +95,7 @@ p.demo_store {
     -moz-animation: spin 1s ease-in-out infinite;
     animation: spin 1s ease-in-out infinite;
     content: "";
-    background: url(../img/icons/loader.svg) center center/cover;
+    background: url(../images/icons/loader.svg) center center/cover;
     line-height: 1;
     text-align: center;
     font-size: 2em;
@@ -1947,10 +1946,6 @@ p.demo_store {
     margin-top: 0 !important;
 }
 
-
-
-
-
 /* WooCommerce Styles */
 /* Global */
 .woocommerce table th {
@@ -3545,11 +3540,6 @@ h3#ship-to-different-address label {
 body.contact #Content,body.content_no_padding #Content {
     padding-top: 0 !important;
 }
-
-
-
-
-
 
 /* ------------------------------------------- *
  * font awesome 
